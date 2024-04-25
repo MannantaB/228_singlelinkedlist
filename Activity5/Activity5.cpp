@@ -141,6 +141,15 @@ int main() {
             cout << "15. Keluar" << endl;
             cout << "Pilihan: ";
             cin >> pilihan;
+            switch (pilihan)
+            {
+            case 1:
+                addNode();
+                cout << "Data Berhasil Ditambahkan" << endl;
+                system("pause");
+                system("cls");
+                break;
+            }
             
         }
     }
