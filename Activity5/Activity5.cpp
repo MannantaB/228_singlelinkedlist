@@ -169,6 +169,9 @@ int main() {
                 else
                     cout << "Data tidak ditemukan" << end;
                 break;
+            case 3:
+                traverse();
+                break;
             }
             
         }
