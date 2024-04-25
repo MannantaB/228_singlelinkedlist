@@ -128,8 +128,8 @@ void searchData() {
     }
 }
 
-int main()
-{
-    std::cout << "Hello World!\n";
+int main() {
+    int pilihan;
+    do
 }
 
